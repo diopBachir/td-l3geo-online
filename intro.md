@@ -28,7 +28,7 @@ Les données traitées proviennent du capteur **Landsat** (USGS), largement util
 
 ---
 
-## Objectifs pédagogiques
+## Objectifs pédagogiques du TP
 
 À l'issue de ce TP, vous serez en mesure de :
 
