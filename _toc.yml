@@ -1,0 +1,10 @@
+format: jb-book
+root: intro
+
+
+
+chapters:
+  - file: 01_introduction_to_python
+  - file: 02_Download-RS-Images
+  - file: 03_indices_spectrales
+  - file: 04_ML-classification

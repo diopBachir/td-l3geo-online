@@ -1,0 +1,22 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 9646a318-7b86-43aa-9212-4b559e03ffc3
+  title: Travaux Pratiques - Introduxtion à la télédétection
+  date: 2025-06-27
+  # description:
+  keywords: []
+  authors: Serigne Bassirou DIOP
+  github: https://github.com/diopBachir/onlinetdl3geo
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
+  # Numérotation des sections
+  numbering:
+    headings: true
+
+site:
+  template: book-theme
+  options:
+    favicon: images/logo.png
+    logo: images/logo3.png
+    logo_width: 500px
